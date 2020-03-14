@@ -1,8 +1,8 @@
 {
   "owner": "obsidiansystems",
   "repo": "obelisk",
-  "branch": "eac@config-deploy-module",
+  "branch": "develop",
   "private": false,
-  "rev": "3b882fb2e5245942a2180a27640dfe1c55991d14",
-  "sha256": "10jcsbfsi4mvsif75fpcqva40pycsw503rrixkvz7z6slp8haifh"
+  "rev": "4e2a337791947e7d52c2362b4a74ffe20d2c1c2c",
+  "sha256": "097rs6zrmidzjvmfx6xygfb1fdhsmzjvqhx0lqgvvygbi7cp0rwb"
 }
