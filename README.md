@@ -63,16 +63,6 @@ with this Rhyolite thunk:
 
 # Hacking
 
-
-## On backend
-
-```bash
-nix-shell -A proj.shells.ghc --run 'cabal new-repl lib:rhyolite-backend'
 ```
-
-
-## On frontend
-
-```bash
-nix-shell -A proj.shells.ghc --run 'cabal new-repl lib:rhyolite-frontend'
+ob run
 ```
